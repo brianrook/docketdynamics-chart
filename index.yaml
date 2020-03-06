@@ -2,12 +2,15 @@ apiVersion: v1
 entries:
   attendee:
   - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-03-02T22:18:51.2309782-07:00"
+    appVersion: 0.0.1
+    created: "2020-03-06T13:55:28.8270245-07:00"
     description: A Helm chart for Kubernetes
-    digest: e532f840d3a82d489a9b352d8c9f29ac96c8b5f4ffe5ba7342ffdd94deb11946
+    digest: 6a3bb4b49ffefd388da73210448d049c890b129089d49bbbeb2de44bd9a7448a
+    maintainers:
+    - email: brian.rook@gmail.com
+      name: brook
     name: attendee
     urls:
     - https://brianrook.github.io/docketdynamics-chart/attendee-0.0.1.tgz
     version: 0.0.1
-generated: "2020-03-02T22:18:51.2309782-07:00"
+generated: "2020-03-06T13:55:28.8260246-07:00"
